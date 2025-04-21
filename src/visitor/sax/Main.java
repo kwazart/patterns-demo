@@ -1,4 +1,4 @@
-package visitor;
+package visitor.sax;
 
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;

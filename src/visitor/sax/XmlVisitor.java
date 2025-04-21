@@ -1,4 +1,4 @@
-package visitor;
+package visitor.sax;
 
 // 4. Интерфейс посетителя
 public interface XmlVisitor {

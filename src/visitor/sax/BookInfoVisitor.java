@@ -1,4 +1,4 @@
-package visitor;
+package visitor.sax;
 
 // 5. Конкретный посетитель для обработки информации о книгах
 public class BookInfoVisitor implements XmlVisitor {

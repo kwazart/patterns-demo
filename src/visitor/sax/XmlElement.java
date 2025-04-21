@@ -1,4 +1,4 @@
-package visitor;
+package visitor.sax;
 
 // 1. Интерфейс элемента XML
 public interface XmlElement {

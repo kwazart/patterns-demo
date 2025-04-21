@@ -1,4 +1,4 @@
-package visitor;
+package visitor.sax;
 
 // 3. Класс атрибута XML
 public class XmlAttribute implements XmlElement {

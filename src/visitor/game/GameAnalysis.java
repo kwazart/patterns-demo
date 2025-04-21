@@ -1,4 +1,4 @@
-package visitor;
+package visitor.game;
 
 import java.util.ArrayList;
 import java.util.List;
